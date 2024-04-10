@@ -9,6 +9,7 @@ Implement methods to check out and return items in the derived classes.
 #include<iostream>
 using namespace std;
 
+// Changes made by Shivanshi
 class LibraryItem {
 	private:
 		string title;
